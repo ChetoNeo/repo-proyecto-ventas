@@ -1,0 +1,4 @@
+# Exclusión de archivos de control de entornos virtuales y Python
+.ipynb_checkpoints/
+__pycache__/
+*.log
