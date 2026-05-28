@@ -1,0 +1,146 @@
+id,sales_date,product,quantity,sales_amount
+1,2026-01-01,Mouse Ergonómico,4,946
+2,2026-01-02,Auriculares Pro,4,303
+3,2026-01-03,Teclado Mecánico RGB,2,502
+4,2026-01-04,Auriculares Pro,2,1110
+5,2026-01-05,Auriculares Pro,3,1064
+6,2026-01-06,Monitor 24 Pulgadas,4,58
+7,2026-01-07,Teclado Mecánico RGB,2,1172
+8,2026-01-08,Teclado Mecánico RGB,3,865
+9,2026-01-09,Teclado Mecánico RGB,4,257
+10,2026-01-10,Auriculares Pro,1,453
+11,2026-01-11,Mouse Ergonómico,3,201
+12,2026-01-12,Teclado Mecánico RGB,2,103
+13,2026-01-13,Auriculares Pro,1,1193
+14,2026-01-14,Monitor 24 Pulgadas,1,677
+15,2026-01-15,Mouse Ergonómico,1,636
+16,2026-01-16,Monitor 24 Pulgadas,3,153
+17,2026-01-17,Mouse Ergonómico,2,303
+18,2026-01-18,Auriculares Pro,1,1185
+19,2026-01-19,Laptop Core i7,4,559
+20,2026-01-20,Mouse Ergonómico,1,148
+21,2026-01-21,Monitor 24 Pulgadas,1,202
+22,2026-01-22,Auriculares Pro,3,963
+23,2026-01-23,Mouse Ergonómico,3,927
+24,2026-01-24,Laptop Core i7,2,387
+25,2026-01-25,Laptop Core i7,4,871
+26,2026-01-26,Teclado Mecánico RGB,3,1006
+27,2026-01-27,Teclado Mecánico RGB,1,210
+28,2026-01-28,Monitor 24 Pulgadas,2,850
+29,2026-01-29,Mouse Ergonómico,1,447
+30,2026-01-30,Mouse Ergonómico,1,865
+31,2026-01-31,Teclado Mecánico RGB,3,450
+32,2026-02-01,Mouse Ergonómico,2,689
+33,2026-02-02,Mouse Ergonómico,4,1106
+34,2026-02-03,Laptop Core i7,4,737
+35,2026-02-04,Teclado Mecánico RGB,3,509
+36,2026-02-05,Auriculares Pro,3,1004
+37,2026-02-06,Teclado Mecánico RGB,2,519
+38,2026-02-07,Auriculares Pro,4,1095
+39,2026-02-08,Laptop Core i7,4,799
+40,2026-02-09,Monitor 24 Pulgadas,4,87
+41,2026-02-10,Mouse Ergonómico,1,279
+42,2026-02-11,Laptop Core i7,4,612
+43,2026-02-12,Mouse Ergonómico,1,487
+44,2026-02-13,Monitor 24 Pulgadas,2,76
+45,2026-02-14,Monitor 24 Pulgadas,1,275
+46,2026-02-15,Laptop Core i7,2,847
+47,2026-02-16,Monitor 24 Pulgadas,4,333
+48,2026-02-17,Auriculares Pro,4,928
+49,2026-02-18,Monitor 24 Pulgadas,2,1009
+50,2026-02-19,Mouse Ergonómico,3,502
+51,2026-02-20,Mouse Ergonómico,2,1069
+52,2026-02-21,Mouse Ergonómico,3,865
+53,2026-02-22,Mouse Ergonómico,1,708
+54,2026-02-23,Auriculares Pro,1,596
+55,2026-02-24,Teclado Mecánico RGB,1,1122
+56,2026-02-25,Laptop Core i7,4,66
+57,2026-02-26,Mouse Ergonómico,1,207
+58,2026-02-27,Monitor 24 Pulgadas,3,526
+59,2026-02-28,Mouse Ergonómico,1,1119
+60,2026-03-01,Monitor 24 Pulgadas,2,567
+61,2026-03-02,Monitor 24 Pulgadas,2,148
+62,2026-03-03,Mouse Ergonómico,4,1110
+63,2026-03-04,Auriculares Pro,2,329
+64,2026-03-05,Monitor 24 Pulgadas,3,546
+65,2026-03-06,Monitor 24 Pulgadas,1,351
+66,2026-03-07,Mouse Ergonómico,4,230
+67,2026-03-08,Monitor 24 Pulgadas,1,656
+68,2026-03-09,Monitor 24 Pulgadas,1,1172
+69,2026-03-10,Mouse Ergonómico,3,749
+70,2026-03-11,Mouse Ergonómico,2,1042
+71,2026-03-12,Laptop Core i7,2,1189
+72,2026-03-13,Auriculares Pro,1,240
+73,2026-03-14,Auriculares Pro,4,302
+74,2026-03-15,Monitor 24 Pulgadas,2,1030
+75,2026-03-16,Auriculares Pro,4,977
+76,2026-03-17,Monitor 24 Pulgadas,2,177
+77,2026-03-18,Laptop Core i7,4,67
+78,2026-03-19,Mouse Ergonómico,3,615
+79,2026-03-20,Mouse Ergonómico,4,619
+80,2026-03-21,Mouse Ergonómico,3,735
+81,2026-03-22,Auriculares Pro,3,675
+82,2026-03-23,Laptop Core i7,4,903
+83,2026-03-24,Auriculares Pro,3,1011
+84,2026-03-25,Auriculares Pro,1,204
+85,2026-03-26,Laptop Core i7,3,539
+86,2026-03-27,Laptop Core i7,2,834
+87,2026-03-28,Laptop Core i7,4,1177
+88,2026-03-29,Laptop Core i7,1,295
+89,2026-03-30,Mouse Ergonómico,4,1112
+90,2026-03-31,Teclado Mecánico RGB,2,808
+91,2026-04-01,Teclado Mecánico RGB,2,587
+92,2026-04-02,Laptop Core i7,2,970
+93,2026-04-03,Teclado Mecánico RGB,3,457
+94,2026-04-04,Teclado Mecánico RGB,3,574
+95,2026-04-05,Laptop Core i7,4,877
+96,2026-04-06,Teclado Mecánico RGB,4,952
+97,2026-04-07,Auriculares Pro,1,85
+98,2026-04-08,Monitor 24 Pulgadas,1,734
+99,2026-04-09,Monitor 24 Pulgadas,4,69
+100,2026-04-10,Laptop Core i7,3,370
+101,2026-04-11,Mouse Ergonómico,2,561
+102,2026-04-12,Laptop Core i7,4,449
+103,2026-04-13,Mouse Ergonómico,1,703
+104,2026-04-14,Monitor 24 Pulgadas,3,1021
+105,2026-04-15,Laptop Core i7,4,520
+106,2026-04-16,Auriculares Pro,4,1165
+107,2026-04-17,Teclado Mecánico RGB,3,883
+108,2026-04-18,Mouse Ergonómico,4,776
+109,2026-04-19,Teclado Mecánico RGB,3,903
+110,2026-04-20,Teclado Mecánico RGB,2,100
+111,2026-04-21,Laptop Core i7,3,624
+112,2026-04-22,Teclado Mecánico RGB,3,1198
+113,2026-04-23,Auriculares Pro,3,199
+114,2026-04-24,Teclado Mecánico RGB,4,363
+115,2026-04-25,Laptop Core i7,4,619
+116,2026-04-26,Auriculares Pro,3,354
+117,2026-04-27,Monitor 24 Pulgadas,4,731
+118,2026-04-28,Teclado Mecánico RGB,1,887
+119,2026-04-29,Laptop Core i7,1,1127
+120,2026-04-30,Monitor 24 Pulgadas,4,1052
+121,2026-05-01,Monitor 24 Pulgadas,4,493
+122,2026-05-02,Mouse Ergonómico,3,662
+123,2026-05-03,Auriculares Pro,2,1042
+124,2026-05-04,Teclado Mecánico RGB,4,313
+125,2026-05-05,Laptop Core i7,1,1126
+126,2026-05-06,Mouse Ergonómico,3,1053
+127,2026-05-07,Auriculares Pro,4,54
+128,2026-05-08,Mouse Ergonómico,1,1176
+129,2026-05-09,Auriculares Pro,1,823
+130,2026-05-10,Auriculares Pro,2,926
+131,2026-05-11,Teclado Mecánico RGB,3,1041
+132,2026-05-12,Auriculares Pro,3,933
+133,2026-05-13,Mouse Ergonómico,2,96
+134,2026-05-14,Auriculares Pro,2,916
+135,2026-05-15,Teclado Mecánico RGB,3,872
+136,2026-05-16,Teclado Mecánico RGB,3,985
+137,2026-05-17,Mouse Ergonómico,4,705
+138,2026-05-18,Monitor 24 Pulgadas,4,318
+139,2026-05-19,Monitor 24 Pulgadas,2,419
+140,2026-05-20,Auriculares Pro,4,685
+141,2026-05-21,Laptop Core i7,1,1179
+142,2026-05-22,Auriculares Pro,4,706
+143,2026-05-23,Mouse Ergonómico,4,169
+144,2026-05-24,Mouse Ergonómico,1,880
+145,2026-05-25,Mouse Ergonómico,2,1131
